@@ -81,4 +81,4 @@ In these rows are :
 -> **EXP** : Multiply any number with powers of 10 (e.g. 2 * 10 ** 3 = 2000).  
 
 ## Author
-* **Konstantinos Thanos**
+**Pavan Kalyan Aakula**
